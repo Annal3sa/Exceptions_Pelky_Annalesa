@@ -1,0 +1,4 @@
+C:\Users\AnnalesaPelky\source\repos\Exceptions_Pelky_Annalesa\obj\Debug\net6.0\Exceptions_Pelky_Annalesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnalesaPelky\source\repos\Exceptions_Pelky_Annalesa\obj\Debug\net6.0\Exceptions_Pelky_Annalesa.AssemblyInfoInputs.cache
+C:\Users\AnnalesaPelky\source\repos\Exceptions_Pelky_Annalesa\obj\Debug\net6.0\Exceptions_Pelky_Annalesa.AssemblyInfo.cs
+C:\Users\AnnalesaPelky\source\repos\Exceptions_Pelky_Annalesa\obj\Debug\net6.0\Exceptions_Pelky_Annalesa.csproj.CoreCompileInputs.cache
